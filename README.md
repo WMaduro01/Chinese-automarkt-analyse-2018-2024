@@ -25,8 +25,8 @@ Analyse van de Chinese automarkt op basis van een dataset van 38.807 rijen over 
 - BYD is verantwoordelijk voor 12,7% van alle EV-verkopen over de hele periode
 
 ## Gebruikte tools
-- Microsoft Excel (Power Query, Draaitabellen, Grafieken)
-- Power BI (Interactief Dashboard)
+- Microsoft Excel
+- Power BI
 
 ## Dataset
 Bron: [China Automobile Monthly Sales Data (2018-2024)](https://www.kaggle.com/datasets/felixzhao/china-automobile-monthly-sales-data-2018-2024-4)
@@ -36,4 +36,4 @@ Periode: Januari 2018 – April 2024
 ## Over dit project
 Gemaakt door Willem Maduro
 Student Finance & Control — Hogeschool van Amsterdam
-Minor Big Data 2026
+
